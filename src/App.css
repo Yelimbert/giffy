@@ -10,10 +10,11 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
+  padding: 16px;
   color: white;
 }
 
 button {
-  font-size: 35px;
+  font-size: 34px;
   border-radius: 15px;
 }
